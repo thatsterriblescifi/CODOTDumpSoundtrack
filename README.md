@@ -78,6 +78,7 @@ Activision or the Call of Duty developers or publishers.
 
 ## License
 
-No license has been selected yet. Until one is added, the code is publicly
-visible on GitHub, but that does not grant permission to reuse, modify, or
-redistribute it.
+This project is licensed under the [MIT License](./LICENSE). You may use,
+copy, modify, distribute, sublicense, and sell the software, including for
+commercial purposes, provided the copyright and license notice are included.
+The software is provided without warranty.
